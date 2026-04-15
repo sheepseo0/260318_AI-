@@ -1,4 +1,3 @@
-'''
 #3-6
 #(1)
 for i in range(5):
@@ -21,7 +20,6 @@ print(list(range(1,101,2)))
 #(4)
 print(list(range(-100,1)))
 
-'''
 #3-8
 #(1)
 s = 0
